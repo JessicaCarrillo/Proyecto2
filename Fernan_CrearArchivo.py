@@ -6,8 +6,10 @@ def grabartxt():
     archi=open('datos.txt','a')
     archi.write('Programacion Avanzada\n')
     archi.write('Aula 16\n')
-    archi.write('Fernanada\n')
-    archi.write('Jessica\n')
+    archi.write('Fernanada\t')
+    archi.write('Ushcasina\nt')
+    archi.write('Jessica \t')
+    archi.write('Carrillo\t')
     archi.close()
     
 def leertxt():
