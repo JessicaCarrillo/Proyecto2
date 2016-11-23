@@ -1,0 +1,1 @@
+Numero de palabras que contiene el archivo poema2.txt: 22
