@@ -19,7 +19,6 @@ def leertxt():
     archi.close
 
 
-
 creartxt()
 grabartxt()
 leertxt()
