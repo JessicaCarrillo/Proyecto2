@@ -1,0 +1,6 @@
+el total de palabras es: 1232
+(Harry,32)
+(niño,0)
+(Dursley,2)
+(Voldemort,2)
+(Gryffindor,2)
