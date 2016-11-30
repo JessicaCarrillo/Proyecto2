@@ -1,0 +1,4 @@
+Usted selecciono un *Triangulo* figura de 3 Lados 
+base ingresada:	 4	altura ingresada: 2
+El area es: 4.0
+El perimetro es : 12

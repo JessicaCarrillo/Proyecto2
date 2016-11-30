@@ -1,0 +1,4 @@
+Usted seleccinó un un *Cuadrado* figura de 4 Lados 
+lado ingresado:	 6
+El area es: 36
+El perimetro es : 24

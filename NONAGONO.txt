@@ -1,0 +1,4 @@
+Usted selecciono un *Nonagono* figura de 9 Lados 
+lado ingresado:	 3.0	radio ingresado: 2.0
+El area es: 17.858821349685986
+El perimetro es : 27.0

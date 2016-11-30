@@ -1,0 +1,4 @@
+Usted selecciono un *Pentagono* figura de 5 Lados 
+lado ingresado:	 2.0	radio ingresado: 2.0
+El area es: 8.660254037844386
+El perimetro es : 10.0

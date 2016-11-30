@@ -1,0 +1,4 @@
+Usted selecciono un *Octagono* figura de 8 Lados 
+lado ingresado:	 3.0	radio ingresado: 2.0
+El area es: 15.874507866387544
+El perimetro es : 24.0

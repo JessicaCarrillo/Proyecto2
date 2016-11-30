@@ -1,0 +1,4 @@
+Usted selecciono un *Hexagono* figura de 6 Lados 
+lado ingresado:	 3.0	radio ingresado: 2.0
+El area es: 11.905880899790658
+El perimetro es : 18.0

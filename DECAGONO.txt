@@ -1,0 +1,4 @@
+Usted selecciono un *Decagono* figura de 10 Lados 
+lado ingresado:	 2.0	radio ingresado: 2.0
+El area es: 17.32050807568877
+El perimetro es : 20.0

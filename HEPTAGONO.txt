@@ -1,0 +1,4 @@
+Usted selecciono un *Heptagono* figura de 7 Lados 
+lado ingresado:	 3.0	radio ingresado: 2.0
+El area es: 13.890194383089101
+El perimetro es : 21.0
